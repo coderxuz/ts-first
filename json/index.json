@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 2,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 3,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 4,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 5,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 6,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    },
+    {
+      "id": 7,
+      "title": "Lorem, ipsum dolor.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, hic velit. Aspernatur, repudiandae eius sapiente totam tempore temporibus. Fugiat porro magni vitae, iure dignissimos ducimus minus autem! Architecto, excepturi optio!"
+    }
+  ]
+}

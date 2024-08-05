@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+}
+.main-top {
+  height: 60%;
+  border: 1px solid #000;
+}
+.main-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.main .news-card {
+  width: 300px;
+  height: 500px;
+}/*# sourceMappingURL=new.css.map */
