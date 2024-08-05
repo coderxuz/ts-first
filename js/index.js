@@ -12,7 +12,7 @@ const get = async (url) => {
         return [];
     }
 };
-get("http://localhost:3000/news").then((data) => {
+get("https://ts-server-1adb.onrender.com/news").then((data) => {
     console.log(data);
     const arr = Array.from(data);
     arr.map((item) => {

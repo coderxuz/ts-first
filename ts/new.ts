@@ -10,7 +10,7 @@ const get1 = async (url: string): Promise<Data> => {
     return [];
   }
 };
-get1("http://localhost:3000/news").then((data: Data) => {
+get1("https://ts-server-1adb.onrender.com/news").then((data: Data) => {
   const id = localStorage.getItem("id");
   if (id) {
     for (let item of data) {

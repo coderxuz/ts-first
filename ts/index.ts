@@ -11,7 +11,7 @@ const get = async (url: string): Promise<Data> => {
     return [];
   }
 };
-get("http://localhost:3000/news").then((data: Data) => {
+get("https://ts-server-1adb.onrender.com/news").then((data: Data) => {
   console.log(data);
   const arr: Data = Array.from(data);
   arr.map((item) => {
